@@ -1,0 +1,4 @@
+# Это комментарий — игнорируется
+ls /home/user
+cd /tmp
+blabla
