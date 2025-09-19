@@ -1,0 +1,10 @@
+path,type,content
+/,dir,
+/home,dir,
+/home/user,dir,
+/home/user/hello.txt,file,SGVsbG8gd29ybGQh
+/home/user/docs,dir,
+/home/user/docs/notes.txt,file,VGhpcyBpcyBhIG5vdGUuCg==
+/config.json,file,eyJoZWxsbyI6ICJ3b3JsZCJ9
+/tmp,dir,
+/tmp/log.txt,file,TE9HOiBzdGFydGVk

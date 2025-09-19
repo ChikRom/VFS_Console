@@ -2,3 +2,4 @@
 ls /home/user
 cd /tmp
 blabla
+exit
